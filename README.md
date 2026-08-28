@@ -25,10 +25,10 @@ An interactive web app built with threejs, mediapipe computer vision, web speech
 
 ```bash
 # Clone this repository
-git clone https://github.com/collidingScopes/3d-model-playground
+git clone https://github.com/collidingScopes/3d-model-controller
 
 # Navigate to the project directory
-cd 3d-model-playground
+cd 3d-model-controller
 
 # Serve with your preferred method (example using Python)
 python -m http.server
